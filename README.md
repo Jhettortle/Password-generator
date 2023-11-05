@@ -8,3 +8,4 @@ The purpose of this is to randomly generate a password for the user for greater 
 2. Click on Generate Password button and answer the prompts.
 
 ## Website 
+<a file:///Users/takumi/Projects/Password-generator/Develop/index.html> Password Generator Page</a>
